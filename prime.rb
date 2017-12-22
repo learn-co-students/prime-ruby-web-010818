@@ -8,5 +8,4 @@ def prime?(n) # number evenly divisible by itself and 1
  end
 
  TRUE
-
 end
